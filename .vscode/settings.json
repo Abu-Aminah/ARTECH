@@ -1,0 +1,9 @@
+{
+    "diffEditor.codeLens": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.preview": true,
+    "files.autoGuessEncoding": true,
+    "editor.minimap.autohide": true,
+    "accessibility.hideAccessibleView": false
+}
